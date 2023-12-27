@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack.mix.js"],"names":["mix","require"],"mappings":";;AAAA,IAAMA,GAAG,GAAGC,OAAO,CAAC,aAAD,CAAnB","sourcesContent":["const mix = require('laravel-mix');"],"file":"webpack.mix.dev.js"}
